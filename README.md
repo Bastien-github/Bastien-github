@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Bastien-github
 - 👀 I’m interested in Blockchain, AI and finance.
 - 💞️ I’m looking to build useful products.
-- 📫 How to reach me : 0xstou on Discord
+
